@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>新年礼物（惊吓）</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-01-19T11:09:13.361Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>catcat123</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2022/01/19/index/"/>
+    <id>http://example.com/2022/01/19/index/</id>
+    <published>2022-01-19T11:09:13.361Z</published>
+    <updated>2022-01-19T11:09:13.361Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
